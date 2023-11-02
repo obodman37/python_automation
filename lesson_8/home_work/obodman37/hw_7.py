@@ -11,7 +11,7 @@ while True:
     if input_str.isdigit():
         break
     else:
-        print("Invalid input. Please enter an integer.")
+        print("Invalid input. Please, enter an integer.")
 
 list = []
 for i in input_str:
