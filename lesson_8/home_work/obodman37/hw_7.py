@@ -7,11 +7,11 @@ def count_most_common(input_str):
 
 
 while True:
-    input_str = input(">>> Enter the value: ")
+    input_str = input(">>>>> Enter the value: ")
     if input_str.isdigit():
         break
     else:
-        print("Invalid input. Please enter an integer.")
+        print("Invalid input. Please, enter an integer.")
 
 list = []
 for i in input_str:
