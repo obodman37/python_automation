@@ -1,0 +1,6 @@
+LICENSE
+setup.py
+obodman37.egg-info/PKG-INFO
+obodman37.egg-info/SOURCES.txt
+obodman37.egg-info/dependency_links.txt
+obodman37.egg-info/top_level.txt
